@@ -1,2 +1,4 @@
+<?php
 
+function connect()
 
