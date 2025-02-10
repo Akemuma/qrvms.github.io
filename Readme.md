@@ -33,7 +33,7 @@ $ npm start
 This amazing system was crafted with passion by **Ashley Kemuma**. 💡✨
 
 ## 🤝 Contributing
-We welcome contributions! Feel free to fork the project, submit issues, and create pull requests. 🚀
+I welcome any contributions! Feel free to fork the project, submit issues, and create pull requests. 🚀
 
 
 🎉 **Enjoy managing your events like a pro!** 🎟️🚀
